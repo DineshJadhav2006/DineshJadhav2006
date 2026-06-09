@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh Jadhav</h1>
-<h3 align="center">Software Developer | AI & ML Enthusiast | FastAPI Developer | Flutter Learner</h3>
+<h3 align="center">Software Developer | AI & ML Enthusiast | FastAPI Developer Node JS Developer | Flutter Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DineshJadhav2006&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Student
+🎓 Bachelor Computer Science Student
 
 💻 Passionate about Software Development, AI & Machine Learning
 
@@ -19,12 +19,14 @@
 - Flutter
 - FastAPI
 - PostgreSQL
+- Node JS
 
 🔭 Currently Working On:
 - Student Credit Evaluation System
 - AI Chatbot
-- Smart Farm Management App
+- Sangamner AI 
 - Face Recognition Attendance System
+- SJS Client Project
 
 ⚡ Goal:
 Become a Full Stack AI Developer and build real-world impactful applications.
@@ -72,10 +74,11 @@ Become a Full Stack AI Developer and build real-world impactful applications.
 - Voice Support
 - Modern UI
 
-### 👨‍🌾 Smart Farm Management App
-- Crop Planning
-- Weather Information
-- Market Price Tracking
+### 👨‍🌾 Sangamner AI
+- Appointment System
+- Shop Info
+- Auto Suggestion
+  
 
 ### 😀 Face Recognition Attendance System
 - OpenCV
